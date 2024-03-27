@@ -1,1 +1,1 @@
-# javascript-fundementals
+# javascript fundementals
